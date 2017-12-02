@@ -5,4 +5,4 @@ window.onload = function() {
 		console.log(elemWithButtonClass[i].innerText);
 		alert(elemWithButtonClass[i].innerText);
 	}
-}
+};
